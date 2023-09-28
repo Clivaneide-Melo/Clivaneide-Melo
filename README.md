@@ -1,4 +1,9 @@
-## Hello World! Sou Clivaneide Roberta! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Clivaneide+Roberta!;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
+
+## Hello World!👋
  
 - 💻 Graduando em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou estudando lógica de programação utilizando as linguagens CSS, HTML e JavaScript
